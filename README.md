@@ -1,4 +1,4 @@
-# 🇮🇳 India Indicators Dashboard
+# 🇮🇳 India Indicators Dashboard (https://india-indicators.streamlit.app/)
 
 An **interactive data dashboard** built with [Streamlit](https://streamlit.io) that visualizes key **macroeconomic and social indicators** for India, powered by the **World Bank Open Data API**. Compare against peer countries, share permalinks, download data, and generate quick insights — all from a clean, fast UI.
 
